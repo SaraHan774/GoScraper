@@ -18,3 +18,6 @@
 
 - This content is made following the Nomad coder academy's free tutorial
 - Check out the tutorial on this site : [https://academy.nomadcoders.co](https://academy.nomadcoders.co)
+
+### Challenge
+* Make file write process faster.
