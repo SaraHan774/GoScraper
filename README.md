@@ -1,4 +1,4 @@
-## Go is an amazing lauguage !!! 
+## Go is an amazing language !!! 
 
 ### Local Host made with echo library
 
